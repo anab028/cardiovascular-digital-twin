@@ -1,0 +1,3602 @@
+[
+  {
+    "patient": "standard-0",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 10.760050960098859
+  },
+  {
+    "patient": "standard-1",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 19.326680313443497
+  },
+  {
+    "patient": "standard-2",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 16.07223792616865
+  },
+  {
+    "patient": "standard-3",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 20.266225036949514
+  },
+  {
+    "patient": "standard-4",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 15.093278070270804
+  },
+  {
+    "patient": "standard-5",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 7.970729395609262
+  },
+  {
+    "patient": "standard-6",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 16.505596191947106
+  },
+  {
+    "patient": "standard-7",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 13.408937281873751
+  },
+  {
+    "patient": "standard-8",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 4.204896748293839
+  },
+  {
+    "patient": "standard-9",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 5.042067105369145
+  },
+  {
+    "patient": "standard-10",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 13.91045635892719
+  },
+  {
+    "patient": "standard-11",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 11.855963168594593
+  },
+  {
+    "patient": "standard-12",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 6.24692502269266
+  },
+  {
+    "patient": "standard-13",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 11.301680855259391
+  },
+  {
+    "patient": "standard-14",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 2.874596897569302
+  },
+  {
+    "patient": "standard-15",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 17.961402712285164
+  },
+  {
+    "patient": "standard-16",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 19.38046384435696
+  },
+  {
+    "patient": "standard-17",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 8.720461534385487
+  },
+  {
+    "patient": "standard-18",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 4.637098327809147
+  },
+  {
+    "patient": "standard-19",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 4.539114995358073
+  },
+  {
+    "patient": "standard-20",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 25.461139345547974
+  },
+  {
+    "patient": "standard-21",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 20.81628435930242
+  },
+  {
+    "patient": "standard-22",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 16.972616168421435
+  },
+  {
+    "patient": "standard-23",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 6.485305681691795
+  },
+  {
+    "patient": "standard-24",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 11.175390685024222
+  },
+  {
+    "patient": "standard-25",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 6.46242263756465
+  },
+  {
+    "patient": "standard-26",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 4.290145972597941
+  },
+  {
+    "patient": "standard-27",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 5.577114063176834
+  },
+  {
+    "patient": "standard-28",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 18.381728297160915
+  },
+  {
+    "patient": "standard-29",
+    "scenario": "standard",
+    "model": "persistence",
+    "mae": 5.703113428107741
+  },
+  {
+    "patient": "standard-0",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.6285815318611917
+  },
+  {
+    "patient": "standard-1",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.9383942368815176
+  },
+  {
+    "patient": "standard-2",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.6139743949238161
+  },
+  {
+    "patient": "standard-3",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 1.5036632384359847
+  },
+  {
+    "patient": "standard-4",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.8526909633211353
+  },
+  {
+    "patient": "standard-5",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.8685139655670129
+  },
+  {
+    "patient": "standard-6",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.562291158652081
+  },
+  {
+    "patient": "standard-7",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.37411530282663535
+  },
+  {
+    "patient": "standard-8",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 1.2565397865198045
+  },
+  {
+    "patient": "standard-9",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.6158529070374367
+  },
+  {
+    "patient": "standard-10",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.9303627205219293
+  },
+  {
+    "patient": "standard-11",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 1.037118238309261
+  },
+  {
+    "patient": "standard-12",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 1.1654490936773783
+  },
+  {
+    "patient": "standard-13",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.5550347188871398
+  },
+  {
+    "patient": "standard-14",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.4388379446352297
+  },
+  {
+    "patient": "standard-15",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.6084505052007432
+  },
+  {
+    "patient": "standard-16",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.39923847912844623
+  },
+  {
+    "patient": "standard-17",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.5674874708535874
+  },
+  {
+    "patient": "standard-18",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.5448062490279024
+  },
+  {
+    "patient": "standard-19",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 1.2391722019648201
+  },
+  {
+    "patient": "standard-20",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.7423738929829884
+  },
+  {
+    "patient": "standard-21",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 1.583448528293203
+  },
+  {
+    "patient": "standard-22",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.5831068802545047
+  },
+  {
+    "patient": "standard-23",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.7040942042529921
+  },
+  {
+    "patient": "standard-24",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.969519497980566
+  },
+  {
+    "patient": "standard-25",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.8897710495273354
+  },
+  {
+    "patient": "standard-26",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.46619001186619513
+  },
+  {
+    "patient": "standard-27",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 1.078096437731386
+  },
+  {
+    "patient": "standard-28",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 1.290038433265642
+  },
+  {
+    "patient": "standard-29",
+    "scenario": "standard",
+    "model": "physiology",
+    "mae": 0.545054966336381
+  },
+  {
+    "patient": "standard-0",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 1.7837415295525654
+  },
+  {
+    "patient": "standard-1",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 4.898145245372459
+  },
+  {
+    "patient": "standard-2",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 3.4302066474569752
+  },
+  {
+    "patient": "standard-3",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 12.91306209539292
+  },
+  {
+    "patient": "standard-4",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 5.752366177807062
+  },
+  {
+    "patient": "standard-5",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 2.779731018156866
+  },
+  {
+    "patient": "standard-6",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 10.321829541275147
+  },
+  {
+    "patient": "standard-7",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 7.75811765896314
+  },
+  {
+    "patient": "standard-8",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 7.898136313800975
+  },
+  {
+    "patient": "standard-9",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 4.462056110322677
+  },
+  {
+    "patient": "standard-10",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 22.57062712213409
+  },
+  {
+    "patient": "standard-11",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 2.156134574636294
+  },
+  {
+    "patient": "standard-12",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 2.2867823288219413
+  },
+  {
+    "patient": "standard-13",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 7.758560270660621
+  },
+  {
+    "patient": "standard-14",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 6.7182419660202255
+  },
+  {
+    "patient": "standard-15",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 7.183423364255839
+  },
+  {
+    "patient": "standard-16",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 4.186741840245807
+  },
+  {
+    "patient": "standard-17",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 5.636907829533486
+  },
+  {
+    "patient": "standard-18",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 2.8952649211110573
+  },
+  {
+    "patient": "standard-19",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 6.862928196750786
+  },
+  {
+    "patient": "standard-20",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 12.197647006990403
+  },
+  {
+    "patient": "standard-21",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 6.189278066697601
+  },
+  {
+    "patient": "standard-22",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 2.666634391823584
+  },
+  {
+    "patient": "standard-23",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 2.655374269519625
+  },
+  {
+    "patient": "standard-24",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 8.834940308209193
+  },
+  {
+    "patient": "standard-25",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 15.22533665643783
+  },
+  {
+    "patient": "standard-26",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 1.3580530838210003
+  },
+  {
+    "patient": "standard-27",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 5.975986887759934
+  },
+  {
+    "patient": "standard-28",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 10.14048517915996
+  },
+  {
+    "patient": "standard-29",
+    "scenario": "standard",
+    "model": "data_driven",
+    "mae": 6.151407070398236
+  },
+  {
+    "patient": "standard-0",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.5704036371363747
+  },
+  {
+    "patient": "standard-1",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 1.031442322128806
+  },
+  {
+    "patient": "standard-2",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.4974551303963268
+  },
+  {
+    "patient": "standard-3",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.5803604262077333
+  },
+  {
+    "patient": "standard-4",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.39781913068586844
+  },
+  {
+    "patient": "standard-5",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.3950252524635144
+  },
+  {
+    "patient": "standard-6",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.5258862729786997
+  },
+  {
+    "patient": "standard-7",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.1979479075954662
+  },
+  {
+    "patient": "standard-8",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.5590730558295354
+  },
+  {
+    "patient": "standard-9",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.758205221595351
+  },
+  {
+    "patient": "standard-10",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.38963776082428125
+  },
+  {
+    "patient": "standard-11",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.6561488942384446
+  },
+  {
+    "patient": "standard-12",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.6650522691320595
+  },
+  {
+    "patient": "standard-13",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.18906060298349237
+  },
+  {
+    "patient": "standard-14",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.3123285228384022
+  },
+  {
+    "patient": "standard-15",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.3777051622205036
+  },
+  {
+    "patient": "standard-16",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.548958683329236
+  },
+  {
+    "patient": "standard-17",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.32572383835703406
+  },
+  {
+    "patient": "standard-18",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.22860286276459618
+  },
+  {
+    "patient": "standard-19",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.549874511272914
+  },
+  {
+    "patient": "standard-20",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.25549194368657985
+  },
+  {
+    "patient": "standard-21",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.8245668080397246
+  },
+  {
+    "patient": "standard-22",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.3832296264752757
+  },
+  {
+    "patient": "standard-23",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.27418368328092596
+  },
+  {
+    "patient": "standard-24",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.23342086369776824
+  },
+  {
+    "patient": "standard-25",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.14267120444924658
+  },
+  {
+    "patient": "standard-26",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.26178766062927794
+  },
+  {
+    "patient": "standard-27",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.7766689616782143
+  },
+  {
+    "patient": "standard-28",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.6252104871491468
+  },
+  {
+    "patient": "standard-29",
+    "scenario": "standard",
+    "model": "hybrid",
+    "mae": 0.4512019744099192
+  },
+  {
+    "patient": "sparse-0",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 6.096012542918575
+  },
+  {
+    "patient": "sparse-1",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 12.076023889992303
+  },
+  {
+    "patient": "sparse-2",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 5.095603170839889
+  },
+  {
+    "patient": "sparse-3",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 8.153501540507612
+  },
+  {
+    "patient": "sparse-4",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 11.002823669247116
+  },
+  {
+    "patient": "sparse-5",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 11.726336593813414
+  },
+  {
+    "patient": "sparse-6",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 18.18936953674077
+  },
+  {
+    "patient": "sparse-7",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 13.120941034254452
+  },
+  {
+    "patient": "sparse-8",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 5.353471062793301
+  },
+  {
+    "patient": "sparse-9",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 12.044256604998425
+  },
+  {
+    "patient": "sparse-10",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 9.681264551519565
+  },
+  {
+    "patient": "sparse-11",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 5.535703027429584
+  },
+  {
+    "patient": "sparse-12",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 27.721769760227026
+  },
+  {
+    "patient": "sparse-13",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 2.7088111023690713
+  },
+  {
+    "patient": "sparse-14",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 5.339967403337555
+  },
+  {
+    "patient": "sparse-15",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 10.087531562557418
+  },
+  {
+    "patient": "sparse-16",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 7.575331269613598
+  },
+  {
+    "patient": "sparse-17",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 3.125250005682646
+  },
+  {
+    "patient": "sparse-18",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 28.11575723630223
+  },
+  {
+    "patient": "sparse-19",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 7.223794716732035
+  },
+  {
+    "patient": "sparse-20",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 9.557963910586743
+  },
+  {
+    "patient": "sparse-21",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 11.513249590172434
+  },
+  {
+    "patient": "sparse-22",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 11.488868565932284
+  },
+  {
+    "patient": "sparse-23",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 4.296991592548245
+  },
+  {
+    "patient": "sparse-24",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 6.085236326228641
+  },
+  {
+    "patient": "sparse-25",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 6.577747358326113
+  },
+  {
+    "patient": "sparse-26",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 2.611924768833526
+  },
+  {
+    "patient": "sparse-27",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 4.7667068378386
+  },
+  {
+    "patient": "sparse-28",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 11.564367899283706
+  },
+  {
+    "patient": "sparse-29",
+    "scenario": "sparse",
+    "model": "persistence",
+    "mae": 6.076355176497762
+  },
+  {
+    "patient": "sparse-0",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.6805679102124139
+  },
+  {
+    "patient": "sparse-1",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 1.5055465561432255
+  },
+  {
+    "patient": "sparse-2",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.7608266593651759
+  },
+  {
+    "patient": "sparse-3",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 1.1425883532497456
+  },
+  {
+    "patient": "sparse-4",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.9875748162556721
+  },
+  {
+    "patient": "sparse-5",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 1.1320429731650103
+  },
+  {
+    "patient": "sparse-6",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 1.3598725249501582
+  },
+  {
+    "patient": "sparse-7",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.5840358340586076
+  },
+  {
+    "patient": "sparse-8",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 1.2923210870931194
+  },
+  {
+    "patient": "sparse-9",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.4782590631487376
+  },
+  {
+    "patient": "sparse-10",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 1.2978622009077634
+  },
+  {
+    "patient": "sparse-11",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.7053101683917791
+  },
+  {
+    "patient": "sparse-12",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.9363204361680348
+  },
+  {
+    "patient": "sparse-13",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.6394655553113151
+  },
+  {
+    "patient": "sparse-14",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.6593638187225429
+  },
+  {
+    "patient": "sparse-15",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.6521417569923597
+  },
+  {
+    "patient": "sparse-16",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 1.4622685554324388
+  },
+  {
+    "patient": "sparse-17",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.510214594629261
+  },
+  {
+    "patient": "sparse-18",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 1.3652521303980825
+  },
+  {
+    "patient": "sparse-19",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.27594878314865134
+  },
+  {
+    "patient": "sparse-20",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.7467529783531632
+  },
+  {
+    "patient": "sparse-21",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.8095430901416691
+  },
+  {
+    "patient": "sparse-22",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.5781681146485358
+  },
+  {
+    "patient": "sparse-23",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.5131582545619247
+  },
+  {
+    "patient": "sparse-24",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 1.105082855716387
+  },
+  {
+    "patient": "sparse-25",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.38734096222521897
+  },
+  {
+    "patient": "sparse-26",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.5082094626394005
+  },
+  {
+    "patient": "sparse-27",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.7194080086638408
+  },
+  {
+    "patient": "sparse-28",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 1.1401791077749233
+  },
+  {
+    "patient": "sparse-29",
+    "scenario": "sparse",
+    "model": "physiology",
+    "mae": 0.879102685875006
+  },
+  {
+    "patient": "sparse-0",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 2.0378311790449866
+  },
+  {
+    "patient": "sparse-1",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 12.20421554720755
+  },
+  {
+    "patient": "sparse-2",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 2.0149704261529844
+  },
+  {
+    "patient": "sparse-3",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 15.316639664153856
+  },
+  {
+    "patient": "sparse-4",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 9.153088832275296
+  },
+  {
+    "patient": "sparse-5",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 6.945207673319316
+  },
+  {
+    "patient": "sparse-6",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 1.369610150426363
+  },
+  {
+    "patient": "sparse-7",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 10.026422113458878
+  },
+  {
+    "patient": "sparse-8",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 6.368268757677481
+  },
+  {
+    "patient": "sparse-9",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 10.599683007843282
+  },
+  {
+    "patient": "sparse-10",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 3.4827705424882613
+  },
+  {
+    "patient": "sparse-11",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 0.7007028923994948
+  },
+  {
+    "patient": "sparse-12",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 16.204845738027174
+  },
+  {
+    "patient": "sparse-13",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 1.2887494629736274
+  },
+  {
+    "patient": "sparse-14",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 1.2913819007192096
+  },
+  {
+    "patient": "sparse-15",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 6.33281790298236
+  },
+  {
+    "patient": "sparse-16",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 2.4744152875841685
+  },
+  {
+    "patient": "sparse-17",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 1.22367274165826
+  },
+  {
+    "patient": "sparse-18",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 25.183145114035064
+  },
+  {
+    "patient": "sparse-19",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 2.361561783461214
+  },
+  {
+    "patient": "sparse-20",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 10.04634411138058
+  },
+  {
+    "patient": "sparse-21",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 2.776906621108497
+  },
+  {
+    "patient": "sparse-22",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 2.6198963466330905
+  },
+  {
+    "patient": "sparse-23",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 4.629063394484218
+  },
+  {
+    "patient": "sparse-24",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 7.685043926876663
+  },
+  {
+    "patient": "sparse-25",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 8.330519823047249
+  },
+  {
+    "patient": "sparse-26",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 4.980233121297002
+  },
+  {
+    "patient": "sparse-27",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 0.9944816632818454
+  },
+  {
+    "patient": "sparse-28",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 1.5447074406121553
+  },
+  {
+    "patient": "sparse-29",
+    "scenario": "sparse",
+    "model": "data_driven",
+    "mae": 9.725794047535969
+  },
+  {
+    "patient": "sparse-0",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.5596880895664651
+  },
+  {
+    "patient": "sparse-1",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 1.4289610822976542
+  },
+  {
+    "patient": "sparse-2",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.24113574489312384
+  },
+  {
+    "patient": "sparse-3",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.48722735876860496
+  },
+  {
+    "patient": "sparse-4",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.5327734480005194
+  },
+  {
+    "patient": "sparse-5",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.8436045583152442
+  },
+  {
+    "patient": "sparse-6",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 1.0019282662061477
+  },
+  {
+    "patient": "sparse-7",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.3798895539196983
+  },
+  {
+    "patient": "sparse-8",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 1.4323478114039545
+  },
+  {
+    "patient": "sparse-9",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.2131868422343146
+  },
+  {
+    "patient": "sparse-10",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.6162616552633966
+  },
+  {
+    "patient": "sparse-11",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.40392882187327983
+  },
+  {
+    "patient": "sparse-12",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.2968910535055783
+  },
+  {
+    "patient": "sparse-13",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.24655000696216142
+  },
+  {
+    "patient": "sparse-14",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.3625084827748058
+  },
+  {
+    "patient": "sparse-15",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.6413730027533737
+  },
+  {
+    "patient": "sparse-16",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.7524035973323163
+  },
+  {
+    "patient": "sparse-17",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.6055501813736432
+  },
+  {
+    "patient": "sparse-18",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 1.0509316482156301
+  },
+  {
+    "patient": "sparse-19",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.4161601253994464
+  },
+  {
+    "patient": "sparse-20",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.42276614169964305
+  },
+  {
+    "patient": "sparse-21",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.8087102824544905
+  },
+  {
+    "patient": "sparse-22",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.12000171462377444
+  },
+  {
+    "patient": "sparse-23",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.5888683347329992
+  },
+  {
+    "patient": "sparse-24",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.7045007566475252
+  },
+  {
+    "patient": "sparse-25",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.7386186345645023
+  },
+  {
+    "patient": "sparse-26",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.3363503097760412
+  },
+  {
+    "patient": "sparse-27",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.6305601910890853
+  },
+  {
+    "patient": "sparse-28",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.2949037068767744
+  },
+  {
+    "patient": "sparse-29",
+    "scenario": "sparse",
+    "model": "hybrid",
+    "mae": 0.2826621268291211
+  },
+  {
+    "patient": "noisy-0",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 2.9920662562643154
+  },
+  {
+    "patient": "noisy-1",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 8.230196176484833
+  },
+  {
+    "patient": "noisy-2",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 7.096038654319432
+  },
+  {
+    "patient": "noisy-3",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 22.154702958867066
+  },
+  {
+    "patient": "noisy-4",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 15.76483950793803
+  },
+  {
+    "patient": "noisy-5",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 7.538082621057722
+  },
+  {
+    "patient": "noisy-6",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 32.27778484225398
+  },
+  {
+    "patient": "noisy-7",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 8.527650516795068
+  },
+  {
+    "patient": "noisy-8",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 16.36754586767048
+  },
+  {
+    "patient": "noisy-9",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 20.618743441575752
+  },
+  {
+    "patient": "noisy-10",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 4.15261524231979
+  },
+  {
+    "patient": "noisy-11",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 6.051493367130126
+  },
+  {
+    "patient": "noisy-12",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 14.34724587270462
+  },
+  {
+    "patient": "noisy-13",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 4.880196814068546
+  },
+  {
+    "patient": "noisy-14",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 14.772190454649122
+  },
+  {
+    "patient": "noisy-15",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 4.465305715889644
+  },
+  {
+    "patient": "noisy-16",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 3.6810175860017966
+  },
+  {
+    "patient": "noisy-17",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 5.169167749708345
+  },
+  {
+    "patient": "noisy-18",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 22.05421070640187
+  },
+  {
+    "patient": "noisy-19",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 19.853561345054576
+  },
+  {
+    "patient": "noisy-20",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 4.424714727787975
+  },
+  {
+    "patient": "noisy-21",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 15.118280815330003
+  },
+  {
+    "patient": "noisy-22",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 7.18879894213999
+  },
+  {
+    "patient": "noisy-23",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 9.295962351063114
+  },
+  {
+    "patient": "noisy-24",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 3.5273171290679746
+  },
+  {
+    "patient": "noisy-25",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 7.109186185977826
+  },
+  {
+    "patient": "noisy-26",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 7.723313370712074
+  },
+  {
+    "patient": "noisy-27",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 6.132970797575138
+  },
+  {
+    "patient": "noisy-28",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 6.96524165544
+  },
+  {
+    "patient": "noisy-29",
+    "scenario": "noisy",
+    "model": "persistence",
+    "mae": 23.4324809087651
+  },
+  {
+    "patient": "noisy-0",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 1.9012537543693613
+  },
+  {
+    "patient": "noisy-1",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.9383915784898642
+  },
+  {
+    "patient": "noisy-2",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 1.8975385502306912
+  },
+  {
+    "patient": "noisy-3",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.5177958086326946
+  },
+  {
+    "patient": "noisy-4",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 1.4760987652142523
+  },
+  {
+    "patient": "noisy-5",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 1.1939415815502905
+  },
+  {
+    "patient": "noisy-6",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.5329954234990056
+  },
+  {
+    "patient": "noisy-7",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.279362687394514
+  },
+  {
+    "patient": "noisy-8",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.6303001345212885
+  },
+  {
+    "patient": "noisy-9",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.6507224193451031
+  },
+  {
+    "patient": "noisy-10",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 1.3002890651337367
+  },
+  {
+    "patient": "noisy-11",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.5674016272780268
+  },
+  {
+    "patient": "noisy-12",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.7475655989034908
+  },
+  {
+    "patient": "noisy-13",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 1.7815084354053394
+  },
+  {
+    "patient": "noisy-14",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.825344108002281
+  },
+  {
+    "patient": "noisy-15",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 1.441835594319065
+  },
+  {
+    "patient": "noisy-16",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.6651941909188739
+  },
+  {
+    "patient": "noisy-17",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.8651711187320866
+  },
+  {
+    "patient": "noisy-18",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 1.5304872090323045
+  },
+  {
+    "patient": "noisy-19",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 1.1156557030454601
+  },
+  {
+    "patient": "noisy-20",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.789758535428555
+  },
+  {
+    "patient": "noisy-21",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.6999201827604893
+  },
+  {
+    "patient": "noisy-22",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 1.0951307486721482
+  },
+  {
+    "patient": "noisy-23",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.5573217795058288
+  },
+  {
+    "patient": "noisy-24",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.595533864960355
+  },
+  {
+    "patient": "noisy-25",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.635348242575715
+  },
+  {
+    "patient": "noisy-26",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.9407508012211234
+  },
+  {
+    "patient": "noisy-27",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.29879429769020954
+  },
+  {
+    "patient": "noisy-28",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.9841058220048058
+  },
+  {
+    "patient": "noisy-29",
+    "scenario": "noisy",
+    "model": "physiology",
+    "mae": 0.725876679037307
+  },
+  {
+    "patient": "noisy-0",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 1.4826665588567798
+  },
+  {
+    "patient": "noisy-1",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 19.087191816418123
+  },
+  {
+    "patient": "noisy-2",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 11.101049768927577
+  },
+  {
+    "patient": "noisy-3",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 9.788452889376533
+  },
+  {
+    "patient": "noisy-4",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 3.7997973033200623
+  },
+  {
+    "patient": "noisy-5",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 0.5859479829033775
+  },
+  {
+    "patient": "noisy-6",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 23.043916395954692
+  },
+  {
+    "patient": "noisy-7",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 6.861855334355303
+  },
+  {
+    "patient": "noisy-8",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 3.335119426293517
+  },
+  {
+    "patient": "noisy-9",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 3.7088465172930385
+  },
+  {
+    "patient": "noisy-10",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 8.748658290673585
+  },
+  {
+    "patient": "noisy-11",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 6.173716165502847
+  },
+  {
+    "patient": "noisy-12",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 15.030674028563467
+  },
+  {
+    "patient": "noisy-13",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 15.659010166770194
+  },
+  {
+    "patient": "noisy-14",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 3.4864542080377436
+  },
+  {
+    "patient": "noisy-15",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 7.2215832040289705
+  },
+  {
+    "patient": "noisy-16",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 2.2197743671350123
+  },
+  {
+    "patient": "noisy-17",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 1.1708588493286956
+  },
+  {
+    "patient": "noisy-18",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 7.120646474750037
+  },
+  {
+    "patient": "noisy-19",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 14.834951004443258
+  },
+  {
+    "patient": "noisy-20",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 3.3247679725361206
+  },
+  {
+    "patient": "noisy-21",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 8.29632215404411
+  },
+  {
+    "patient": "noisy-22",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 4.954346195201606
+  },
+  {
+    "patient": "noisy-23",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 8.810771928456337
+  },
+  {
+    "patient": "noisy-24",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 0.38863252839082674
+  },
+  {
+    "patient": "noisy-25",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 9.021442182451874
+  },
+  {
+    "patient": "noisy-26",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 4.962645897286396
+  },
+  {
+    "patient": "noisy-27",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 5.781431449226416
+  },
+  {
+    "patient": "noisy-28",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 15.915796741291947
+  },
+  {
+    "patient": "noisy-29",
+    "scenario": "noisy",
+    "model": "data_driven",
+    "mae": 6.981708493676528
+  },
+  {
+    "patient": "noisy-0",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 1.724416847074967
+  },
+  {
+    "patient": "noisy-1",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.9736599700107527
+  },
+  {
+    "patient": "noisy-2",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 1.5311537722576969
+  },
+  {
+    "patient": "noisy-3",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.47625831493304815
+  },
+  {
+    "patient": "noisy-4",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.6823486760509305
+  },
+  {
+    "patient": "noisy-5",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.7142088154054308
+  },
+  {
+    "patient": "noisy-6",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.2127789904688408
+  },
+  {
+    "patient": "noisy-7",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.30435156957520115
+  },
+  {
+    "patient": "noisy-8",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.726386019834159
+  },
+  {
+    "patient": "noisy-9",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.5917516832669146
+  },
+  {
+    "patient": "noisy-10",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.7683010880567726
+  },
+  {
+    "patient": "noisy-11",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.3413577750489655
+  },
+  {
+    "patient": "noisy-12",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.5937863969222934
+  },
+  {
+    "patient": "noisy-13",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 1.7316582221838925
+  },
+  {
+    "patient": "noisy-14",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.7976428695986787
+  },
+  {
+    "patient": "noisy-15",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 1.3398138888307798
+  },
+  {
+    "patient": "noisy-16",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.18345434129071342
+  },
+  {
+    "patient": "noisy-17",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.7311291356478108
+  },
+  {
+    "patient": "noisy-18",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.6480056585389434
+  },
+  {
+    "patient": "noisy-19",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 1.0577926476425912
+  },
+  {
+    "patient": "noisy-20",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.566085153206322
+  },
+  {
+    "patient": "noisy-21",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.3080724981915687
+  },
+  {
+    "patient": "noisy-22",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.4434584872712756
+  },
+  {
+    "patient": "noisy-23",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.4684795637965938
+  },
+  {
+    "patient": "noisy-24",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.5492326094177442
+  },
+  {
+    "patient": "noisy-25",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.6666981380928942
+  },
+  {
+    "patient": "noisy-26",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.6913800281574112
+  },
+  {
+    "patient": "noisy-27",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.3330145898493713
+  },
+  {
+    "patient": "noisy-28",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.38637560889660166
+  },
+  {
+    "patient": "noisy-29",
+    "scenario": "noisy",
+    "model": "hybrid",
+    "mae": 0.3402498812569986
+  },
+  {
+    "patient": "intervention-0",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 53.55218577637329
+  },
+  {
+    "patient": "intervention-1",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 38.523691195719586
+  },
+  {
+    "patient": "intervention-2",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 69.46454354587448
+  },
+  {
+    "patient": "intervention-3",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 43.171336995387534
+  },
+  {
+    "patient": "intervention-4",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 31.552323910937247
+  },
+  {
+    "patient": "intervention-5",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 59.50612698656283
+  },
+  {
+    "patient": "intervention-6",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 41.05467941554885
+  },
+  {
+    "patient": "intervention-7",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 20.83354248100445
+  },
+  {
+    "patient": "intervention-8",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 70.65879275804592
+  },
+  {
+    "patient": "intervention-9",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 26.12367575390419
+  },
+  {
+    "patient": "intervention-10",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 46.774712252795965
+  },
+  {
+    "patient": "intervention-11",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 31.638664780903294
+  },
+  {
+    "patient": "intervention-12",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 28.361615382775454
+  },
+  {
+    "patient": "intervention-13",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 36.574372552643965
+  },
+  {
+    "patient": "intervention-14",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 61.43175360638125
+  },
+  {
+    "patient": "intervention-15",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 46.24914440934108
+  },
+  {
+    "patient": "intervention-16",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 48.12946430202106
+  },
+  {
+    "patient": "intervention-17",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 45.03324228784713
+  },
+  {
+    "patient": "intervention-18",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 55.97230025047368
+  },
+  {
+    "patient": "intervention-19",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 51.957755354992536
+  },
+  {
+    "patient": "intervention-20",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 54.26315051995049
+  },
+  {
+    "patient": "intervention-21",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 34.25120355594049
+  },
+  {
+    "patient": "intervention-22",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 44.94675771580844
+  },
+  {
+    "patient": "intervention-23",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 41.85808345259543
+  },
+  {
+    "patient": "intervention-24",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 49.9076625842282
+  },
+  {
+    "patient": "intervention-25",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 63.29966942406889
+  },
+  {
+    "patient": "intervention-26",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 46.48140813698534
+  },
+  {
+    "patient": "intervention-27",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 54.225894316551695
+  },
+  {
+    "patient": "intervention-28",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 73.55092808164953
+  },
+  {
+    "patient": "intervention-29",
+    "scenario": "intervention",
+    "model": "persistence",
+    "mae": 24.95262325246827
+  },
+  {
+    "patient": "intervention-0",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.1180124040676973
+  },
+  {
+    "patient": "intervention-1",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.4057188823769644
+  },
+  {
+    "patient": "intervention-2",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 2.597306092057882
+  },
+  {
+    "patient": "intervention-3",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 0.8354152541092335
+  },
+  {
+    "patient": "intervention-4",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 0.8499868331360932
+  },
+  {
+    "patient": "intervention-5",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.3103790823937829
+  },
+  {
+    "patient": "intervention-6",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.3807578847831694
+  },
+  {
+    "patient": "intervention-7",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 0.9346811021758432
+  },
+  {
+    "patient": "intervention-8",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.4709817420792919
+  },
+  {
+    "patient": "intervention-9",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 0.5661621159774591
+  },
+  {
+    "patient": "intervention-10",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.8808312890978534
+  },
+  {
+    "patient": "intervention-11",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.7612931348881045
+  },
+  {
+    "patient": "intervention-12",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.4169164142279058
+  },
+  {
+    "patient": "intervention-13",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.1427141418625013
+  },
+  {
+    "patient": "intervention-14",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.1707012259106009
+  },
+  {
+    "patient": "intervention-15",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 0.7256124521704278
+  },
+  {
+    "patient": "intervention-16",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.3308028601938713
+  },
+  {
+    "patient": "intervention-17",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 0.9403022282908218
+  },
+  {
+    "patient": "intervention-18",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.985036000572473
+  },
+  {
+    "patient": "intervention-19",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 0.944676221141151
+  },
+  {
+    "patient": "intervention-20",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 0.5135355125031076
+  },
+  {
+    "patient": "intervention-21",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 0.8823227124823022
+  },
+  {
+    "patient": "intervention-22",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.0878643781355344
+  },
+  {
+    "patient": "intervention-23",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.1123258739384827
+  },
+  {
+    "patient": "intervention-24",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.5237315244358822
+  },
+  {
+    "patient": "intervention-25",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 0.5884942923691667
+  },
+  {
+    "patient": "intervention-26",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.8304912118909982
+  },
+  {
+    "patient": "intervention-27",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.1318661766255989
+  },
+  {
+    "patient": "intervention-28",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 2.3963618389768864
+  },
+  {
+    "patient": "intervention-29",
+    "scenario": "intervention",
+    "model": "physiology",
+    "mae": 1.9096445375267552
+  },
+  {
+    "patient": "intervention-0",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 48.51320464273565
+  },
+  {
+    "patient": "intervention-1",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 30.31790931482721
+  },
+  {
+    "patient": "intervention-2",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 52.99707358036969
+  },
+  {
+    "patient": "intervention-3",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 33.03450788781021
+  },
+  {
+    "patient": "intervention-4",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 24.354908412846868
+  },
+  {
+    "patient": "intervention-5",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 49.8559668774373
+  },
+  {
+    "patient": "intervention-6",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 29.04921975673364
+  },
+  {
+    "patient": "intervention-7",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 20.609199096484772
+  },
+  {
+    "patient": "intervention-8",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 46.515626326000586
+  },
+  {
+    "patient": "intervention-9",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 20.969950581422864
+  },
+  {
+    "patient": "intervention-10",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 46.48297123583208
+  },
+  {
+    "patient": "intervention-11",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 32.17444692464627
+  },
+  {
+    "patient": "intervention-12",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 30.77286503549667
+  },
+  {
+    "patient": "intervention-13",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 34.807443060001034
+  },
+  {
+    "patient": "intervention-14",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 54.20072848843858
+  },
+  {
+    "patient": "intervention-15",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 32.20100677925116
+  },
+  {
+    "patient": "intervention-16",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 44.46208663854261
+  },
+  {
+    "patient": "intervention-17",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 34.72154377421704
+  },
+  {
+    "patient": "intervention-18",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 47.44891574226134
+  },
+  {
+    "patient": "intervention-19",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 43.98057690070456
+  },
+  {
+    "patient": "intervention-20",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 46.65097104979011
+  },
+  {
+    "patient": "intervention-21",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 30.11961934811296
+  },
+  {
+    "patient": "intervention-22",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 36.16184928195512
+  },
+  {
+    "patient": "intervention-23",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 38.36699702269551
+  },
+  {
+    "patient": "intervention-24",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 46.97402007500604
+  },
+  {
+    "patient": "intervention-25",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 45.24306493955062
+  },
+  {
+    "patient": "intervention-26",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 38.930338695880884
+  },
+  {
+    "patient": "intervention-27",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 43.1383618542123
+  },
+  {
+    "patient": "intervention-28",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 63.171362271066826
+  },
+  {
+    "patient": "intervention-29",
+    "scenario": "intervention",
+    "model": "data_driven",
+    "mae": 27.035315987253636
+  },
+  {
+    "patient": "intervention-0",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.4817129138730273
+  },
+  {
+    "patient": "intervention-1",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.7723484372856043
+  },
+  {
+    "patient": "intervention-2",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 1.8367509105025648
+  },
+  {
+    "patient": "intervention-3",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.675938528176681
+  },
+  {
+    "patient": "intervention-4",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.3680877477963631
+  },
+  {
+    "patient": "intervention-5",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.4462969247164612
+  },
+  {
+    "patient": "intervention-6",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.4716464105052818
+  },
+  {
+    "patient": "intervention-7",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.749871306697632
+  },
+  {
+    "patient": "intervention-8",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.4669855041967202
+  },
+  {
+    "patient": "intervention-9",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.2846062832503125
+  },
+  {
+    "patient": "intervention-10",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.9830936706253197
+  },
+  {
+    "patient": "intervention-11",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.840539242550706
+  },
+  {
+    "patient": "intervention-12",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.7714897882666931
+  },
+  {
+    "patient": "intervention-13",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.4232174333995296
+  },
+  {
+    "patient": "intervention-14",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.5169504118490212
+  },
+  {
+    "patient": "intervention-15",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.556726906687897
+  },
+  {
+    "patient": "intervention-16",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 1.1975031599150647
+  },
+  {
+    "patient": "intervention-17",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.5287039750528121
+  },
+  {
+    "patient": "intervention-18",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 1.1856391212996846
+  },
+  {
+    "patient": "intervention-19",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.7293946348209207
+  },
+  {
+    "patient": "intervention-20",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.5393935260500491
+  },
+  {
+    "patient": "intervention-21",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.3322679181124121
+  },
+  {
+    "patient": "intervention-22",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.5327575642088788
+  },
+  {
+    "patient": "intervention-23",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.5016602370980947
+  },
+  {
+    "patient": "intervention-24",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.8303695709046468
+  },
+  {
+    "patient": "intervention-25",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.37907739192385975
+  },
+  {
+    "patient": "intervention-26",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.8877279443595313
+  },
+  {
+    "patient": "intervention-27",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 0.34774888662485526
+  },
+  {
+    "patient": "intervention-28",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 1.4753620326955952
+  },
+  {
+    "patient": "intervention-29",
+    "scenario": "intervention",
+    "model": "hybrid",
+    "mae": 1.5581547489689869
+  },
+  {
+    "patient": "shift-0",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 22.945064943948406
+  },
+  {
+    "patient": "shift-1",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 15.2209824699333
+  },
+  {
+    "patient": "shift-2",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 9.595673694344894
+  },
+  {
+    "patient": "shift-3",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 17.228818201067558
+  },
+  {
+    "patient": "shift-4",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 15.618684657990212
+  },
+  {
+    "patient": "shift-5",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 5.1755563930566835
+  },
+  {
+    "patient": "shift-6",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 6.561576036938195
+  },
+  {
+    "patient": "shift-7",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 5.25336018797963
+  },
+  {
+    "patient": "shift-8",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 6.68760268374717
+  },
+  {
+    "patient": "shift-9",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 8.690794984457526
+  },
+  {
+    "patient": "shift-10",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 5.757608494659178
+  },
+  {
+    "patient": "shift-11",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 7.904609751321418
+  },
+  {
+    "patient": "shift-12",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 6.5880220040385415
+  },
+  {
+    "patient": "shift-13",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 16.71730162927262
+  },
+  {
+    "patient": "shift-14",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 5.029857307448989
+  },
+  {
+    "patient": "shift-15",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 5.665208294141175
+  },
+  {
+    "patient": "shift-16",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 14.199238001092299
+  },
+  {
+    "patient": "shift-17",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 6.860470996370476
+  },
+  {
+    "patient": "shift-18",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 11.439216040584906
+  },
+  {
+    "patient": "shift-19",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 15.989059611399062
+  },
+  {
+    "patient": "shift-20",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 4.122338865086829
+  },
+  {
+    "patient": "shift-21",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 14.6190896608919
+  },
+  {
+    "patient": "shift-22",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 9.10290081223214
+  },
+  {
+    "patient": "shift-23",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 7.941233100078748
+  },
+  {
+    "patient": "shift-24",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 6.184989290936138
+  },
+  {
+    "patient": "shift-25",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 5.1052035772412765
+  },
+  {
+    "patient": "shift-26",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 4.233029956305833
+  },
+  {
+    "patient": "shift-27",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 9.39321789508623
+  },
+  {
+    "patient": "shift-28",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 2.936963227919336
+  },
+  {
+    "patient": "shift-29",
+    "scenario": "shift",
+    "model": "persistence",
+    "mae": 17.184773325343205
+  },
+  {
+    "patient": "shift-0",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 3.2770891644793765
+  },
+  {
+    "patient": "shift-1",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 2.020872746932188
+  },
+  {
+    "patient": "shift-2",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 2.623093111304456
+  },
+  {
+    "patient": "shift-3",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 3.3813043968120406
+  },
+  {
+    "patient": "shift-4",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 1.4422039559305597
+  },
+  {
+    "patient": "shift-5",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 1.4636286710492192
+  },
+  {
+    "patient": "shift-6",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 3.6578764406617745
+  },
+  {
+    "patient": "shift-7",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 1.5309345905587568
+  },
+  {
+    "patient": "shift-8",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 1.9633315779873093
+  },
+  {
+    "patient": "shift-9",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 1.7926205343166188
+  },
+  {
+    "patient": "shift-10",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 2.6481440334055186
+  },
+  {
+    "patient": "shift-11",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 1.7427366818238266
+  },
+  {
+    "patient": "shift-12",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 2.99792009550476
+  },
+  {
+    "patient": "shift-13",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 2.0691444840454976
+  },
+  {
+    "patient": "shift-14",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 1.5379181076008246
+  },
+  {
+    "patient": "shift-15",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 1.6506763733261727
+  },
+  {
+    "patient": "shift-16",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 2.825974981583905
+  },
+  {
+    "patient": "shift-17",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 1.799945953263797
+  },
+  {
+    "patient": "shift-18",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 3.639813708046351
+  },
+  {
+    "patient": "shift-19",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 2.231499942082757
+  },
+  {
+    "patient": "shift-20",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 2.7751139091662633
+  },
+  {
+    "patient": "shift-21",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 2.352641505102458
+  },
+  {
+    "patient": "shift-22",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 4.110704523880406
+  },
+  {
+    "patient": "shift-23",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 2.6557081016366233
+  },
+  {
+    "patient": "shift-24",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 2.6759998015088833
+  },
+  {
+    "patient": "shift-25",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 3.810083224391754
+  },
+  {
+    "patient": "shift-26",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 1.8314376800584518
+  },
+  {
+    "patient": "shift-27",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 1.6456000036450014
+  },
+  {
+    "patient": "shift-28",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 2.0492764414492286
+  },
+  {
+    "patient": "shift-29",
+    "scenario": "shift",
+    "model": "physiology",
+    "mae": 1.5669003299397068
+  },
+  {
+    "patient": "shift-0",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 11.202396128534955
+  },
+  {
+    "patient": "shift-1",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 7.72357248735221
+  },
+  {
+    "patient": "shift-2",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 10.896000172601465
+  },
+  {
+    "patient": "shift-3",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 4.544057920415189
+  },
+  {
+    "patient": "shift-4",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 6.449728969557521
+  },
+  {
+    "patient": "shift-5",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 1.821544064232835
+  },
+  {
+    "patient": "shift-6",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 4.0464829246687435
+  },
+  {
+    "patient": "shift-7",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 3.4888691736614637
+  },
+  {
+    "patient": "shift-8",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 6.66891602255844
+  },
+  {
+    "patient": "shift-9",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 3.236770823173367
+  },
+  {
+    "patient": "shift-10",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 8.281529398984084
+  },
+  {
+    "patient": "shift-11",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 3.505589186279011
+  },
+  {
+    "patient": "shift-12",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 2.7742825173364465
+  },
+  {
+    "patient": "shift-13",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 5.304826104758621
+  },
+  {
+    "patient": "shift-14",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 4.9874910008624935
+  },
+  {
+    "patient": "shift-15",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 1.461347937115356
+  },
+  {
+    "patient": "shift-16",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 3.8650468626455132
+  },
+  {
+    "patient": "shift-17",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 6.147512825862027
+  },
+  {
+    "patient": "shift-18",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 5.349544459514262
+  },
+  {
+    "patient": "shift-19",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 7.013205732494828
+  },
+  {
+    "patient": "shift-20",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 2.1137811535269466
+  },
+  {
+    "patient": "shift-21",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 2.745138797583514
+  },
+  {
+    "patient": "shift-22",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 4.4405478036796175
+  },
+  {
+    "patient": "shift-23",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 6.108121413550089
+  },
+  {
+    "patient": "shift-24",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 6.2516839882504085
+  },
+  {
+    "patient": "shift-25",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 3.2510789151913038
+  },
+  {
+    "patient": "shift-26",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 5.262827081073385
+  },
+  {
+    "patient": "shift-27",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 8.981546010282662
+  },
+  {
+    "patient": "shift-28",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 2.0225162859699544
+  },
+  {
+    "patient": "shift-29",
+    "scenario": "shift",
+    "model": "data_driven",
+    "mae": 1.2427556072568426
+  },
+  {
+    "patient": "shift-0",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 2.2493033613953264
+  },
+  {
+    "patient": "shift-1",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.4265838146972145
+  },
+  {
+    "patient": "shift-2",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.8360442117940943
+  },
+  {
+    "patient": "shift-3",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 2.5755283238013726
+  },
+  {
+    "patient": "shift-4",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 0.8474464090768318
+  },
+  {
+    "patient": "shift-5",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 0.9632424631722251
+  },
+  {
+    "patient": "shift-6",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 2.866789498652505
+  },
+  {
+    "patient": "shift-7",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 0.8641037185818128
+  },
+  {
+    "patient": "shift-8",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.4945751549126436
+  },
+  {
+    "patient": "shift-9",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 0.8268859152636923
+  },
+  {
+    "patient": "shift-10",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 2.036950636200387
+  },
+  {
+    "patient": "shift-11",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.0737366741716752
+  },
+  {
+    "patient": "shift-12",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 2.107444879741282
+  },
+  {
+    "patient": "shift-13",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.3229213405720657
+  },
+  {
+    "patient": "shift-14",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 0.8702387539977611
+  },
+  {
+    "patient": "shift-15",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.2074039009797877
+  },
+  {
+    "patient": "shift-16",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 2.073018256336559
+  },
+  {
+    "patient": "shift-17",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.2471843898207653
+  },
+  {
+    "patient": "shift-18",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 2.8343080878847364
+  },
+  {
+    "patient": "shift-19",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.339409047067353
+  },
+  {
+    "patient": "shift-20",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 2.048351613111268
+  },
+  {
+    "patient": "shift-21",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.5939082538279379
+  },
+  {
+    "patient": "shift-22",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 3.4098715812986673
+  },
+  {
+    "patient": "shift-23",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.793544939935801
+  },
+  {
+    "patient": "shift-24",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.9508416137211344
+  },
+  {
+    "patient": "shift-25",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 2.7270449924487696
+  },
+  {
+    "patient": "shift-26",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.198861677974476
+  },
+  {
+    "patient": "shift-27",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.0081558960276538
+  },
+  {
+    "patient": "shift-28",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 1.4687174335595319
+  },
+  {
+    "patient": "shift-29",
+    "scenario": "shift",
+    "model": "hybrid",
+    "mae": 0.9313128307036257
+  }
+]
